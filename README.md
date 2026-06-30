@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harsh-shuklaa/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harsh-shuklaa/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Harsh-shuklaa/leetcode/tree/master/0283-move-zeroes) |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
