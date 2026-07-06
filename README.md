@@ -46,6 +46,7 @@
 | [0202-happy-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Harsh-shuklaa/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-shuklaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
+| [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
