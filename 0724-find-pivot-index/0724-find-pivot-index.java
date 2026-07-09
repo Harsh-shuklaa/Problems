@@ -1,19 +1,22 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        int total = 0, sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            total += nums[i];
-        }
-        for (int i = 0; i < nums.length; i++) {
-            if (total - sum - nums[i] == sum) {
-                return i;
-            } else {
-                sum += nums[i];
-            }
+      int [] prefix =  new int [nums.length];
+      int [] suffix = new int [nums.length];
 
-        }
-        return -1;
+      for(int i =1;i<prefix.length;i++ ){
+        prefix[i] = prefix[i-1] + nums[i-1];
+      }
+      for(int j =suffix.length-2;j>=0;j-- ){
+        suffix[j] = suffix[j+1] + nums[j+1];
+      }
 
+     for(int k = 0;k<nums.length;k++){
+        if(prefix[k] == suffix[k]){
+            return k;
+        }
+       
+     }
+ return -1;
     }
 
 }
