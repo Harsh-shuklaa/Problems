@@ -8,7 +8,10 @@ class Solution {
 
          for(int i =0;i<nums.length;i++){
             sum = sum+nums[i];
-    rem = ((sum%k)+k)%k;
+    rem = sum%k;
+    if(rem<0){
+       rem =  rem+k;
+    }
     if(freq.containsKey(rem)){
         cnt=cnt+ freq.get(rem);
     }
