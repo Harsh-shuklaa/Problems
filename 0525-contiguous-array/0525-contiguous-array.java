@@ -17,7 +17,7 @@ class Solution {
            if(diff==0){
             res = Math.max(res,i+1);
            }
-         else if  (diff!=0){
+         else {
             if(freq.containsKey(diff)){
                res= Math.max(res,i-freq.get(diff));
             }
