@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Harsh-shuklaa/Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harsh-shuklaa/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-shuklaa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -90,6 +91,7 @@
 | [0015-3sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harsh-shuklaa/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Harsh-shuklaa/Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harsh-shuklaa/leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
