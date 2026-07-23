@@ -25,6 +25,7 @@
 | [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Harsh-shuklaa/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-shuklaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh-shuklaa/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh-shuklaa/Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-shuklaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Harsh-shuklaa/leetcode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Harsh-shuklaa/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
