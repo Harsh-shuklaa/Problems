@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/Harsh-shuklaa/Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Harsh-shuklaa/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Harsh-shuklaa/leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-shuklaa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -140,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Harsh-shuklaa/leetcode/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
