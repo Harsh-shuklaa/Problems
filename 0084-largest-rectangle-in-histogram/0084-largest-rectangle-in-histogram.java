@@ -72,6 +72,16 @@ class Solution {
             }
             s.push(new Pair(i,heights[i]));
         }
+        // int i = 0;
+        // int j = right.length-1;
+        // while(i<j){
+        //     int temp = right[i];
+        //     right[i]=right[j];
+        //     right[j]=temp;
+
+        //     i++;
+        //     j--;
+        // }
         return right;
     }
 
