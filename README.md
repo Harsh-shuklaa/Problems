@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Harsh-shuklaa/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Harsh-shuklaa/Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Harsh-shuklaa/leetcode/tree/master/0057-insert-interval) |
@@ -52,6 +53,7 @@
 | [0016-3sum-closest](https://github.com/Harsh-shuklaa/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harsh-shuklaa/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Harsh-shuklaa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-shuklaa/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -126,6 +128,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -143,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
@@ -157,6 +161,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
 ## Matrix
