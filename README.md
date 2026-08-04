@@ -149,6 +149,7 @@
 | [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Harsh-shuklaa/Problems/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Harsh-shuklaa/Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
