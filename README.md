@@ -106,6 +106,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-shuklaa/Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Harsh-shuklaa/Problems/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-shuklaa/Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
