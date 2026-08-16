@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Harsh-shuklaa/Problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-shuklaa/Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -147,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh-shuklaa/Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-shuklaa/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Harsh-shuklaa/Problems/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harsh-shuklaa/Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
