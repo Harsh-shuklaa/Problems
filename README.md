@@ -42,6 +42,7 @@
 | [0141-linked-list-cycle](https://github.com/Harsh-shuklaa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-shuklaa/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-shuklaa/Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Harsh-shuklaa/Problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-shuklaa/Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Harsh-shuklaa/Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-shuklaa/Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -140,6 +142,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-shuklaa/Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-shuklaa/Problems/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harsh-shuklaa/Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
