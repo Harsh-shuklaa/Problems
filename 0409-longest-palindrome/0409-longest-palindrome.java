@@ -1,18 +1,26 @@
 class Solution {
     public int longestPalindrome(String s) {
-        HashMap<Character,Integer> freq = new HashMap<>();
+        HashSet<Character> set = new HashSet<>();
         int  oddCnt = 0;
         int res = 0;
         for(char ch : s.toCharArray()){
-            freq.put(ch,freq.getOrDefault(ch,0)+1);
-            int currFreq = freq.get(ch);
-            if(currFreq%2==0){
+            // freq.put(ch,freq.getOrDefault(ch,0)+1);
+            
+            if(set.contains(ch)){
                 res+=2;
-                oddCnt--;
+                set.remove(ch);
             }
             else{
-                oddCnt++;
+               set.add(ch);
             }
+            // int currFreq = freq.get(ch);
+            // if(currFreq%2==0){
+            //     res+=2;
+            //     oddCnt--;
+            // }
+            // else{
+            //     oddCnt++;
+            // }
         }
         // for(char i : freq.keySet()){
         //     if(freq.get(i)%2 == 0){
@@ -27,11 +35,18 @@ class Solution {
               
         //     }
         // }
-        if(oddCnt>0){
-            return res+1;
+        // if(oddCnt>0){
+        //     return res+1;
+        // }
+        // else{
+        //     return res;
+        // }
+
+        if(set.size()>0){
+             return res=res+1;
         }
         else{
-            return res;
+            return  res;
         }
     }
 }
