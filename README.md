@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Harsh-shuklaa/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Harsh-shuklaa/Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Harsh-shuklaa/Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Harsh-shuklaa/Problems/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Harsh-shuklaa/Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-shuklaa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0287-find-the-duplicate-number) |
