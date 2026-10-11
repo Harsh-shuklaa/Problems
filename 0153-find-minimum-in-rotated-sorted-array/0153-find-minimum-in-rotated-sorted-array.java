@@ -14,6 +14,7 @@ class Solution {
             
               else{
                 low = low+1;
+                mid =mid-1;
                 ans = Math.min(ans , nums[low]);
                 continue;
 
