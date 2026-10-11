@@ -12,6 +12,7 @@ class Solution {
                 //trim down your search space 
                 low = low+1;
                 high=high-1;
+                continue;
 
             }
             else if (nums[low] <= nums[mid]) {
