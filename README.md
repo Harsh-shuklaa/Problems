@@ -81,6 +81,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Harsh-shuklaa/Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-shuklaa/Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh-shuklaa/Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harsh-shuklaa/Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-shuklaa/Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-shuklaa/Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-shuklaa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -144,6 +145,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harsh-shuklaa/Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harsh-shuklaa/Problems/tree/master/0206-reverse-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harsh-shuklaa/Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
