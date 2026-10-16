@@ -38,6 +38,7 @@
 | [0986-interval-list-intersections](https://github.com/Harsh-shuklaa/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-shuklaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh-shuklaa/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsh-shuklaa/Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh-shuklaa/Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | [0704-binary-search](https://github.com/Harsh-shuklaa/Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-shuklaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsh-shuklaa/Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Sliding Window
 |  |
 | ------- |
