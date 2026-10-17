@@ -1,14 +1,5 @@
 class Solution {
 
-    public int maxPileInPiles(int[] piles) {
-        int max = Integer.MIN_VALUE;
-        for (int i = 0; i < piles.length; i++) {
-            max = Math.max(max, piles[i]);
-        }
-        return max;
-
-    }
-
     public int timeReq(int[] piles, int hourly) {
         int totalHrs = 0;
         for (int i = 0; i < piles.length; i++) {
