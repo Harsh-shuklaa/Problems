@@ -14,6 +14,6 @@ class Solution{
                 high = mid-1;
             }
     }
-    return low+k;
+    return high+1+k;
 }
 }
