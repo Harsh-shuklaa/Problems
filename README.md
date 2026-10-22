@@ -26,6 +26,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Harsh-shuklaa/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh-shuklaa/Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-shuklaa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-shuklaa/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh-shuklaa/Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Harsh-shuklaa/Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Harsh-shuklaa/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Harsh-shuklaa/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -169,6 +172,7 @@
 | [0053-maximum-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Harsh-shuklaa/Problems/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh-shuklaa/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh-shuklaa/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -227,6 +231,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Harsh-shuklaa/Problems/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Harsh-shuklaa/Problems/tree/master/0410-split-array-largest-sum) |
 ## Recursion
 |  |
 | ------- |
