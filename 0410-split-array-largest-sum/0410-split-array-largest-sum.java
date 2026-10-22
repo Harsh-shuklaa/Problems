@@ -10,9 +10,9 @@ class Solution {
             } else {
                 student++;
 
-                // if(student>k){
-                //     return student;
-                // }
+                if(student>k){
+                    return student;
+                }
                 pageCnt = num;
             }
         }
