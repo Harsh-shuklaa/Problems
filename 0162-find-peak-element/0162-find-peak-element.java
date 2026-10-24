@@ -16,10 +16,9 @@ class Solution {
             if(peak){
                return mid;
             }
-            if(nums[mid]>nums[mid-1]){
-                low = mid+1;
+            if(nums[mid]>nums[mid-1])    low = mid+1;
 
-            }
+            
             else{
                 high = mid-1;
             }
