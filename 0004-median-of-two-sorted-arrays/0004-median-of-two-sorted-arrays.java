@@ -30,7 +30,7 @@ class Solution {
               median = (double) (merge.get(merge.size()/2) + merge.get(merge.size()/2 -1)) /2;
         }
         else{
-             median= (double) merge.get(merge.size()/2);
+             median= merge.get(merge.size()/2);
         }
         return median ;
     }
