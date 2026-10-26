@@ -5,7 +5,7 @@ class Solution {
         int j = 0;
         int m = nums1.length;
         int n = nums2.length;
-        double median = 0.00;
+        double median ;
 
         while (i < m && j < n) {
             if (nums1[i] <= nums2[j]) {
