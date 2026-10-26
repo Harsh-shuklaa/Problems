@@ -7,16 +7,20 @@ class Solution {
         for (int k = 0; k <= merge.length - 1; k++) {
 
             if (i >= nums1.length) {
-                merge[k] = nums2[j++];
+                merge[k] = nums2[j];
+                j++;
 
             } else if (j >= nums2.length) {
-                merge[k] = nums1[i++];
+                merge[k] = nums1[i];
+                i++;
             }
         else if(nums1[i]<=nums2[j]){
-            merge[k] = nums1[i++];
+            merge[k] = nums1[i];
+            i++;
         }
         else{
-            merge[k] = nums2[j++];
+            merge[k] = nums2[j];
+            j++;
         }
         }
         if (merge.length % 2 == 0) {
