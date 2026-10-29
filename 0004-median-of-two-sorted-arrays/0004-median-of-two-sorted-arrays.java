@@ -33,7 +33,7 @@ class Solution {
             if ((l1 <= r2) && (l2 <= r1)) {
                 //even
                 if (n % 2 == 0)
-                    return (double) ((double)( Math.max(l1, l2) + Math.min(r1, r2)) / 2.0);
+                    return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
                 else
                     return Math.max(l1, l2);
 
