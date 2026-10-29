@@ -9,7 +9,7 @@ class Solution {
         int high = n1;
         int left = (n + 1) / 2;
         while (low <= high) {
-            int mid1 = (high +low) / 2;
+            int mid1 = (high +low) >> 1;
 
             int mid2 = left - mid1;
 
