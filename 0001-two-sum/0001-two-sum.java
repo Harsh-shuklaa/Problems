@@ -1,30 +1,36 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-        int[][] arr = new int[nums.length][2];
+      if(nums.length<2){
+        return new int[]{-1,-1};
+      }
 
-        for (int i = 0; i < nums.length; i++) {
-            arr[i][0] = nums[i];
-            arr[i][1] = i;
-        }
+     int [][]arr = new int[nums.length][2];
 
-        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+     for(int i =0;i<nums.length;i++){
+        arr[i][0]=nums[i];
+        arr[i][1] = i;
+     }
 
-        int i = 0;
-        int j = nums.length - 1;
+     Arrays.sort(arr,(a,b)-> Integer.compare(a[0],b[0]));
 
-        while (i < j) {
-            int sum = arr[i][0] + arr[j][0];
+     int i = 0;
+     int j = nums.length-1;
 
-            if (sum == target) {
-                return new int[]{arr[i][1], arr[j][1]};
-            } else if (sum > target) {
-                j--;
-            } else {
-                i++;
-            }
-        }
+     while(i<j){
+      double ans = arr[i][0]+arr[j][0];
 
-        return new int[]{-1, -1};
+      if(ans ==target){
+        return new int[]{arr[i][1],arr[j][1]};
+      }
+      else if(ans>target){
+        j--;
+      }
+      else{
+        i++;
+      }
+     }
+   
+    return new int []{-1,-1};
     }
 }
