@@ -7,6 +7,7 @@ class Solution {
         Xorr2 = Xorr2^nums[i];
         Xorr1=Xorr1^(i+1); 
      }
+     //mathmetic way
      return Xorr1^Xorr2;
 }
 }
